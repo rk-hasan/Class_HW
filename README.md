@@ -2,4 +2,4 @@
 
 Class Home Work (Html5 coding with element(html, title, head, body, paragraph), tag(meta & images) & attributes.)
 
-For Live View Click This Link: 
+For Live View Click This Link: https://rk-hasan.github.io/Class_HW/
